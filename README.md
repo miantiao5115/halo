@@ -72,3 +72,6 @@ java -jar halo-latest.jar
 
 - 一次性赞助：<https://sponsor.halo.run>
 - 周期性赞助：<https://afdian.net/@halo-dev>
+
+
+
